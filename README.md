@@ -1,1 +1,0 @@
-# eks-storage-files
